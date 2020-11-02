@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Ground
+  - Chest
+  - Stars
+  - 
+  - 
+  - arrow
+  - 
+  - 
+  - 
+  - OverBackground
+  - Initial Background
+  - Under Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Arrow
+    uniqueID: 4148676287
+    locked: 0
+  - name: Player
+    uniqueID: 4191349079
+    locked: 0
+  - name: Ground
+    uniqueID: 3431229339
+    locked: 0
+  - name: Chest
+    uniqueID: 3780461925
+    locked: 0
+  - name: Stars
+    uniqueID: 4283155775
+    locked: 0
+  - name: Bg o
+    uniqueID: 2067365815
+    locked: 0
+  - name: Bg
+    uniqueID: 223000863
+    locked: 0
+  - name: bg u
+    uniqueID: 395308857
+    locked: 0
